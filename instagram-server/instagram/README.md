@@ -55,11 +55,6 @@ try {
 
 
 
-
-
-## Base URL : https://instagram-api-springboot-production.up.railway.app
-
-
 ### Note: you need to provide this header in each bellow api call
 
 ```javascript
