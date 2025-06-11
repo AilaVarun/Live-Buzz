@@ -2,11 +2,6 @@
 instagram api by using springboot
 
 
-## Live App Link
-https://instagram-api-springboot-production.up.railway.app/api
-
-
-
 # Api Docs
 
 
